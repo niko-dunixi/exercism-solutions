@@ -1,5 +1,5 @@
 [submodule "exercism-cpp-solutions"]
-	path = exercism-cpp-solutions
+	path = cpp
 	url = https://github.com/paul-nelson-baker/exercism-cpp-solutions.git
 [submodule "exercism-ecmascript-solutions"]
 	path = exercism-ecmascript-solutions
