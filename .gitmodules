@@ -1,0 +1,15 @@
+[submodule "cpp"]
+	path = cpp
+	url = https://github.com/paul-nelson-baker/exercism-cpp-solutions.git
+[submodule "kotlin"]
+	path = kotlin
+	url = https://github.com/paul-nelson-baker/exercism-kotlin-solutions.git
+[submodule "ecmascript"]
+	path = ecmascript
+	url = https://github.com/paul-nelson-baker/exercism-ecmascript-solutions.git
+[submodule "java"]
+	path = java
+	url = https://github.com/paul-nelson-baker/exercism-java-solutions.git
+[submodule "typescript"]
+	path = typescript
+	url = https://github.com/paul-nelson-baker/exercism-typescript-solutions.git
