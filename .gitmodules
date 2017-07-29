@@ -1,0 +1,12 @@
+[submodule "exercism-cpp-solutions"]
+	path = exercism-cpp-solutions
+	url = https://github.com/paul-nelson-baker/exercism-cpp-solutions.git
+[submodule "exercism-ecmascript-solutions"]
+	path = exercism-ecmascript-solutions
+	url = https://github.com/paul-nelson-baker/exercism-ecmascript-solutions.git
+[submodule "exercism-java-solutions"]
+	path = exercism-java-solutions
+	url = https://github.com/paul-nelson-baker/exercism-java-solutions.git
+[submodule "exercism-kotlin-solutions"]
+	path = exercism-kotlin-solutions
+	url = https://github.com/paul-nelson-baker/exercism-kotlin-solutions.git
