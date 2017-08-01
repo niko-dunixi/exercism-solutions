@@ -13,3 +13,6 @@
 [submodule "typescript"]
 	path = typescript
 	url = https://github.com/paul-nelson-baker/exercism-typescript-solutions.git
+[submodule "go"]
+	path = go
+	url = https://github.com/paul-nelson-baker/exercism-go-solutions.git
