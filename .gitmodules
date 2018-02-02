@@ -16,3 +16,6 @@
 [submodule "go"]
 	path = go
 	url = git@github.com:paul-nelson-baker/exercism-go-solutions.git
+[submodule "haskell"]
+	path = haskell
+	url = git@github.com:paul-nelson-baker/exercism-haskell-solutions.git
